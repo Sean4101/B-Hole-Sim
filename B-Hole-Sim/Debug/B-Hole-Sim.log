@@ -1,2 +1,4 @@
-﻿  B-Hole-Sim.cpp
-  B-Hole-Sim.vcxproj -> C:\Users\User\Documents\GitHub\B-Hole-Sim\Debug\B-Hole-Sim.exe
+﻿OpenCV_Test.obj : error LNK2019: unresolved external symbol "public: __thiscall cv::Mat::Mat(int,int,int,class cv::Scalar_<double> const &)" (??0Mat@cv@@QAE@HHHABV?$Scalar_@N@1@@Z) referenced in function _main
+OpenCV_Test.obj : error LNK2019: unresolved external symbol "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ) referenced in function _main
+C:\opencv\build\x64\vc16\lib\opencv_world470d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\User\Documents\GitHub\B-Hole-Sim\B-Hole-Sim\Debug\B-Hole-Sim.exe : fatal error LNK1120: 2 unresolved externals

@@ -18,6 +18,9 @@
     <ClCompile Include="B-Hole-Sim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="path_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vec3.h">
